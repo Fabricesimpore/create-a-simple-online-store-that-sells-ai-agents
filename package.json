@@ -1,0 +1,24 @@
+{
+  "name": "create-a-simple-online-store-that-sells-ai-agents",
+  "version": "1.0.0",
+  "description": "create a simple online store that sells AI agents\n\n**AI Learning Insights Applied:**\n• Invest in customer education and awareness about the benefits and uses of AI agents\n• Ensure the AI agents are user-friendly and meet the needs of the target market\n• Establish a strong customer service and support system to handle complaints and returns\n\n**Warning Signals to Monitor:**\n⚠️ Low customer engagement and interaction with the AI agents\n⚠️ High rate of customer complaints or returns\n⚠️ Lack of repeat business or customer loyalty",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@stripe/stripe-js": "^2.0.0",
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
